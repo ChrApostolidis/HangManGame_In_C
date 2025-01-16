@@ -264,7 +264,7 @@ int main(){
 
     switch(choose) {
      case 1:
-        printf("%s\n", word);
+        // printf("%s\n", word);
         for (i = 0; i<wordLength; i++) {
             guessedW[i] = '_';
         }
