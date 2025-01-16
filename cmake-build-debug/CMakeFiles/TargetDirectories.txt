@@ -1,0 +1,3 @@
+C:/Users/Χρήστος Αποστολίδης/Desktop/Programs in C/Hangman2.0/cmake-build-debug/CMakeFiles/Hangman2_0.dir
+C:/Users/Χρήστος Αποστολίδης/Desktop/Programs in C/Hangman2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Χρήστος Αποστολίδης/Desktop/Programs in C/Hangman2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
